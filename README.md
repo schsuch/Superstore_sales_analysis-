@@ -14,3 +14,6 @@ If necessary, remove any rows that have missing values to ensure the dataset is 
 
 ## 3. Data Analysis
 In this step, answer some specific questions related to the dataset using appropriate graphs and visualisations to provide meaningful insights. Using Matplotlib, Seaborn and Plotly.
+
+## Context 
+This project was carried out whilst attending a TechTalent Data Science Bootcamp during June & July 2023 
